@@ -19,6 +19,6 @@ In particular, this mod adds:
 
 -3 new locations
 
--12 new professions
+-12 new professions with 1 new spawn location and three new spawning vehicles to choose from for certain professions.
 
 Made on the bf74cc1 version of Bright Nights.
