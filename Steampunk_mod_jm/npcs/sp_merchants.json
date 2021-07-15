@@ -70,11 +70,12 @@
     "id": "TALK_SPTM_Town",
     "type": "talk_topic",
     "dynamic_line": {
-      "u_female": "Hello, miss. I make the finest food in our little Gallian village, would you mind having some? It's only a small fee.",
-      "u_male": "Hello. I make the finest food in our little Gallian village, would you mind having some? It's only a small fee.?"},
+      "u_female": true,
+      "yes": "Hello, Madam. Do you perhaps have any interests in my wares? Perhaps a nice dress or some cookware to help you in your domestic pursuits.",
+      "no": "Hello, Sir. Do you perhaps have any interest in my wares? A firearm or tonic for your health perhaps?"},
     "responses": [
       {
-        "text": "So you're a baker in this town? What can you tell me about it?",
+        "text": "So you're a merchant in this town? What can you tell me about it?",
         "topic": "TALK_SPTM_infotown"
       },
       {
@@ -96,8 +97,9 @@
     "id": "TALK_SPTM_infotown",
     "type": "talk_topic",
     "dynamic_line": {
-      "u_female": "What is there to say really? I cook and bake for the town, anc do some canning on the side to preserve things for the winter. The recent war with the Empire has drastically increased the demand for my goods, but the basic principle remains the same.",
-      "u_male": "What is there to say really? I cook and bake for the town, anc do some canning on the side to preserve things for the winter. The recent war with the Empire has drastically increased the demand for my goods, but the basic principle remains the same."},
+      "u_female": true,
+      "yes": "That's a good question, miss. This town has been around for some time, I don't really remember how long, but we first placed roots down here in the 19th century. There's a lot of fine domestic pursuits here for a member of the fairer sex such as yourself.",
+      "no": "That's a good question, sir. This town has been around for some time, I don't really remember how long, but we first placed roots down here in the 19th century. This is a place where an enterprising man such as yourself could become famous."},
     "responses": [
       {
         "text": "Got it.",

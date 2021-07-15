@@ -38,7 +38,7 @@
     "id": "MISSION_GET_MERCH_ITEM",
     "type": "mission_definition",
     "name": "Retrieve three copies of Guide on Mechanical Knowledge for the town merchant",
-    "description": "Retrieve three morphine units for the Gallian Doctor.",
+    "description": "Retrieve three copies of the guide on Mechanical Knowledge the Steamtown Merchant.",
     "goal": "MGOAL_FIND_ITEM",
     "difficulty": 3,
     "value": 150000,
