@@ -45,7 +45,7 @@
   },
   {
     "type": "effect_type",
-    "id": "sp_qpowder",
+    "id": "sp_qpowder_ef",
     "name": [ "speed enhanced" ],
     "desc": [ "Your speed have been boosted by quickdash powder" ],
     "apply_message": "You eat the powder.",
