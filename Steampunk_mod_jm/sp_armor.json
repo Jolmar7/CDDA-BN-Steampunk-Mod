@@ -102,7 +102,7 @@
     "material_thickness": 3,
     "environmental_protection": 2,
     "warmth": 10,
-    "flags": [ "STURDY", "FIRESTARTER", "FIX_NEARSIGHT", "FIX_FARSIGHT" ],
+    "flags": [ "STURDY", "FIX_NEARSIGHT", "FIX_FARSIGHT" ],
     "relic_data": { "passive_effects": [ { "has": "WORN", "condition": "ALWAYS", "values": [ { "value": "PERCEPTION", "add": 1 } ] } ] }
   },
   {

@@ -16,6 +16,10 @@
         "topic": "TALK_Merc_Town"
       },
       {
+        "text": "Do you have a task for me?",
+        "topic": "TALK_MISSION_LIST"
+      },
+      {
         "text": "Goodbye, thank you for your time.",
         "topic": "TALK_DONE"
       }
